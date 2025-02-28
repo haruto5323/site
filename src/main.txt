@@ -1,1 +1,2 @@
 Companion website for the Learning TypeScript book.
+# guard against empty input
